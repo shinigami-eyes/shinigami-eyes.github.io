@@ -15,7 +15,7 @@ h1 {
     font-size: 40pt;
 }
 
-a {
+a[href] {
     color: rgb(76, 44, 119);
     font-weight: bold;
     text-decoration: none;
